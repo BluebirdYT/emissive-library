@@ -1,3 +1,6 @@
+This repository is now archived. Feel free to fork and continue the project but this will no longer receive any updates
+
+
 # Emissive-library
 Uses core shaders to allow emissive texture support for blocks, items, armor, and more! This is a library for other resourcepack creators to use.
 
